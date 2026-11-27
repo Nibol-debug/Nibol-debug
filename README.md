@@ -1,7 +1,16 @@
 <p align="center">
+  <img src="./assets/terminal-banner.svg" width="100%" alt="Nibol-debug. Web development dan jaringan Layer 3.">
+</p>
+
+<p align="center">
   <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/pixel-breeze-still.png">
-    <img src="./assets/pixel-breeze.svg" width="720" alt="Ilustrasi pixel bergaya anime dengan karakter bermata hijau dan berambut ungu gelap.">
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/anime-reaction-still.webp">
+    <img src="https://c.tenor.com/scOGZw3Q9asAAAAC/tenor.gif" width="38%" alt="Karakter anime berambut cokelat mengangkat tangan dengan ekspresi panik.">
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/anime-snack-still.webp">
+    <img src="https://c.tenor.com/OJ9hRFLEeB4AAAAd/tenor.gif" width="29%" alt="Karakter anime berambut pirang menggigit camilan.">
   </picture>
 </p>
 
@@ -9,11 +18,11 @@
 
 Saya pelajar yang suka bikin antarmuka web dan ngoprek jaringan Layer 3. Di sela mengerjakan SyIAR Gemilang, saya suka bongkar-pasang Arch Linux dengan Hyprland dan push rank di *Honor of Kings*. Kalau lagi menunggu migrasi Laravel, biasanya saya putar lagu dari *Girls Band Cry*.
 
-## Proyek pilihan
+## `$ ls projects/`
 
 ### [HaloAPU](https://github.com/sarpraslazalazhar-pixel/HaloAPU)
 
-<p><img src="./assets/haloapu-logo.png" width="224" alt="Logo HaloAPU"></p>
+<p><img src="./assets/haloapu-logo.png" width="176" alt="Logo HaloAPU"></p>
 
 Aplikasi helpdesk untuk mengajukan tiket, memantau statusnya, dan berkomunikasi dengan tim support lewat percakapan di tiap tiket.
 
@@ -21,12 +30,22 @@ Aplikasi helpdesk untuk mengajukan tiket, memantau statusnya, dan berkomunikasi 
 
 ### [Amana](https://github.com/sarpraslazalazhar-pixel/Amana)
 
-<p><img src="./assets/amana-logo.png" width="224" alt="Logo Amana"></p>
+<p><img src="./assets/amana-logo.png" width="176" alt="Logo Amana"></p>
 
 Aplikasi manajemen aset LAZ Al Azhar untuk mendata inventaris, mengenali aset lewat kode QR, dan melacak mutasi serta penyusutannya.
 
 `Laravel` `Blade` `Alpine.js` `Tailwind CSS`
 
-## Yang saya pakai
+## `$ cat stack.txt`
 
-`PHP` `JavaScript` `Laravel` `Linux` `Cisco` `Docker`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,js,laravel,react,tailwind,linux,docker&amp;theme=dark" width="340" alt="PHP, JavaScript, Laravel, React, Tailwind CSS, Linux, dan Docker">
+</p>
+
+`PHP` `JavaScript` `Laravel` `React` `Tailwind` `Linux` `Docker` `Cisco`
+
+## `$ git log`
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nibol-debug&amp;bg_color=101623&amp;color=a6f3e6&amp;line=5bd8c6&amp;point=b6a1ff&amp;area=true&amp;hide_border=true&amp;custom_title=Aktivitas%20GitHub" width="100%" alt="Grafik aktivitas kontribusi GitHub Nibol-debug">
+</p>
