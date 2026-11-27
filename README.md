@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/terminal-banner.svg" width="100%" alt="Nibol-debug. Web development dan jaringan Layer 3.">
+  <img src="./assets/terminal-banner.svg" width="100%" alt="Nibol-debug, full-stack developer.">
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 # Halo, saya Gibran
 
-Saya pelajar yang suka bikin antarmuka web dan ngoprek jaringan Layer 3. Di sela mengerjakan SyIAR Gemilang, saya suka bongkar-pasang Arch Linux dengan Hyprland dan push rank di *Honor of Kings*. Kalau lagi menunggu migrasi Laravel, biasanya saya putar lagu dari *Girls Band Cry*.
+Saya seorang full-stack developer.
 
 ## `$ ls projects/`
 

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="252" viewBox="0 0 960 252" role="img" aria-labelledby="title desc">
   <title id="title">Nibol-debug</title>
-  <desc id="desc">Banner terminal berwarna hijau toska dengan diagram jaringan dan teks Web Development / Layer 3 Networking.</desc>
+  <desc id="desc">Banner terminal berwarna hijau toska dengan teks Full-Stack Developer.</desc>
   <defs>
     <path id="frame" d="M18 1H940l19 19v214l-18 17H18L1 234V18Z"/>
     <clipPath id="bounds"><use href="#frame"/></clipPath>
@@ -40,7 +40,7 @@
   <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace">
     <text x="103" y="34" fill="#aec0d1" font-size="16">gibran@github:~$ whoami</text>
     <text x="40" y="143" fill="#dffaf5" font-size="82" font-weight="700" letter-spacing="-5">NIBOL<tspan fill="#6cead5">-DEBUG</tspan></text>
-    <text x="44" y="184" fill="#adc7d4" font-size="23" letter-spacing="-.6">Web development <tspan fill="#74cbbf">/</tspan> Layer 3 networking<tspan fill="#6cead5" dx="12">&#x258C;</tspan></text>
+    <text x="44" y="184" fill="#adc7d4" font-size="23" letter-spacing="-.6">Full-Stack Developer<tspan fill="#6cead5" dx="12">&#x258C;</tspan></text>
   </g>
 
   <g transform="translate(766 131)">
